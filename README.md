@@ -18,14 +18,10 @@ This is my work account. If you are interested in what I do in my free time head
   <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=ffffff" alt="Bash">
   <img src="https://img.shields.io/badge/-curl-%23073551?style=for-the-badge&logo=curl" alt="curl">
   <img src="https://img.shields.io/badge/-Dark%20Reader-%23141E24?style=for-the-badge&logo=Dark%20Reader" alt="Dark%20Reader">
-  <img src="https://img.shields.io/badge/-F--Droid-%231976D2?style=for-the-badge&logo=F%2DDroid" alt="F-Droid">
   <img src="https://img.shields.io/badge/-Firefox-%23FF7139?style=for-the-badge&logo=Firefox&logoColor=ffffff" alt="Firefox">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=Git&logoColor=ffffff" alt="Git">
   <img src="https://img.shields.io/badge/-KeePassXC-%236CAC4D?style=for-the-badge&logo=KeePassXC&logoColor=ffffff" alt="KeePassXC">
   <img src="https://img.shields.io/badge/-LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice" alt="LibreOffice">
-  <img src="https://img.shields.io/badge/-LineageOS-%23167C80?style=for-the-badge&logo=LineageOS" alt="LineageOS">  
-  <img src="https://img.shields.io/badge/-Signal-%232592E9?style=for-the-badge&logo=Signal&logoColor=ffffff" alt="Signal">
-  <img src="https://img.shields.io/badge/-Thunderbird-%230A84FF?style=for-the-badge&logo=Thunderbird&logoColor=ffffff" alt="Thunderbird">
   <img src="https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=Tor%20Browser" alt="Tor%20Browser">
   <img src="https://img.shields.io/badge/-uBlock%20Origin-%23800000?style=for-the-badge&logo=uBlock%20Origin" alt="uBlock%20Origin">
   <img src="https://img.shields.io/badge/-Vagrant-%231868F2?style=for-the-badge&logo=Vagrant" alt="Vagrant">
@@ -44,10 +40,7 @@ This is my work account. If you are interested in what I do in my free time head
   <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" alt="GitLab">  
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=for-the-badge&logo=Grafana&logoColor=ffffff" alt="Grafana">
   <img src="https://img.shields.io/badge/-Graylog-%23FF3633?style=for-the-badge&logo=Graylog&logoColor=ffffff" alt="Graylog">
-  <img src="https://img.shields.io/badge/-Home%20Assistant-%2341BDF5?style=for-the-badge&logo=Home%20Assistant&logoColor=ffffff" alt="Home%20Assistant">
-  <img src="https://img.shields.io/badge/-Icinga-%2306062C?style=for-the-badge&logo=Icinga" alt="Icinga">
   <img src="https://img.shields.io/badge/-InfluxDB-H%2322ADF6EX?style=for-the-badge&logo=InfluxDB&logoColor=ffffff" alt="InfluxDB">
-  <img src="https://img.shields.io/badge/-Jellyfin-%2300A4DC?style=for-the-badge&logo=Jellyfin&logoColor=ffffff" alt="Jellyfin">  
   <img src="https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-%23003A70?style=for-the-badge&logo=Let%E2%80%99s%20Encrypt" alt="Let's Encrypt">
   <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=for-the-badge&logo=MariaDB" alt="MariaDB">
   <img src="https://img.shields.io/badge/-Matomo-%233152A0?style=for-the-badge&logo=Matomo" alt="Matomo">
