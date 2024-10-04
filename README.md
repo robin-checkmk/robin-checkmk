@@ -6,6 +6,7 @@ Hello there! :wave: I am Robin! :sunglasses:
 - :penguin: I like Linux
 - :man_technologist: And monitoring stuff
 - :computer: Especially using [Checkmk](https://checkmk.com/)
+- :robot: And automating it with the official [Checkmk Ansible Collection](https://github.com/Checkmk/ansible-collection-checkmk.general/)
 
 This is my work account. If you are interested in what I do in my free time head over to my alter ego [thorian93](https://github.com/thorian93).
 
@@ -37,7 +38,7 @@ This is my work account. If you are interested in what I do in my free time head
   <img src="https://img.shields.io/badge/-Ansible-%23EE0000?style=for-the-badge&logo=Ansible" alt="Ansible">
   <img src="https://img.shields.io/badge/-Apache-%23D22128?style=for-the-badge&logo=Apache" alt="Apache">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=ffffff" alt="Docker">
-  <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" alt="GitLab">  
+  <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" alt="GitLab">
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=for-the-badge&logo=Grafana&logoColor=ffffff" alt="Grafana">
   <img src="https://img.shields.io/badge/-Graylog-%23FF3633?style=for-the-badge&logo=Graylog&logoColor=ffffff" alt="Graylog">
   <img src="https://img.shields.io/badge/-InfluxDB-H%2322ADF6EX?style=for-the-badge&logo=InfluxDB&logoColor=ffffff" alt="InfluxDB">
@@ -62,7 +63,7 @@ This is my work account. If you are interested in what I do in my free time head
   <img src="https://img.shields.io/badge/-Debian-%23A81D33?style=for-the-badge&logo=Debian" alt="Debian">
   <img src="https://img.shields.io/badge/-Fedora-%23294172?style=for-the-badge&logo=Fedora" alt="Fedora">
   <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=ffffff" alt="Kali%20Linux">
-  <img src="https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=ffffff" alt="Linux%20Mint">  
+  <img src="https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=ffffff" alt="Linux%20Mint">
   <img src="https://img.shields.io/badge/-Red%20Hat-%23EE0000?style=for-the-badge&logo=Red%20Hat" alt="Red%20Hat">
   <img src="https://img.shields.io/badge/-Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff" alt="Ubuntu">
 </p>
